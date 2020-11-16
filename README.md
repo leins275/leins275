@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software developer in ITS company and student at Peter the Great Polytechnic university.
+Here you can find my projects which I've been doing at Polytech.
+
 <!--
 **LanskovNV/LanskovNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
