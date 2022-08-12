@@ -1,6 +1,8 @@
 I'm a software developer in ITS company and student at Peter the Great Polytechnic university.
 Here you can find my projects which I've been doing at Polytech.
 
+You can visit [my site](https://leins275.xyz) to check out what i'm interested in now.
+
 <!--
 **LanskovNV/LanskovNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
